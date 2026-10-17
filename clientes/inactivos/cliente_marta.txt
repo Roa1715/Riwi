@@ -1,0 +1,4 @@
+Nombre:Marta Padilla
+Empresa:Exito
+Estado:Inactivo
+Correo:marta@gmail.com

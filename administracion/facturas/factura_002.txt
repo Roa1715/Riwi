@@ -1,0 +1,4 @@
+Numero:002
+Cliente:Luis Perez
+Valor:20000
+Estado:pendiente

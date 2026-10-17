@@ -1,0 +1,4 @@
+se le agregaron encriptaciones pero se le encontraron vulneravilidades
+al abrir 20 veces se cae
+al abrirlo con el celular boca abajo se daña
+
